@@ -1,5 +1,7 @@
 # ecommerce-wp_example
-## Use
+
+
+## Setup
 
 create the directories in the same path where stack.yml is found
 - wp_so
