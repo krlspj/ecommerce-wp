@@ -14,5 +14,6 @@ run
 ```
 $ docker compose -f stack.yml up
 ```
+## Info
 ### Binding volumes on docker
 https://docs.docker.com/storage/bind-mounts/
